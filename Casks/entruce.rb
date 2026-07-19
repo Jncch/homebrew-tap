@@ -1,6 +1,6 @@
 cask "entruce" do
-  version "1.1.0"
-  sha256 "fcb1563221f80781a9a9fccefd1d3ee9306aca0af61e09f30c11452472b3f829"
+  version "1.2.0"
+  sha256 "2b7f57d9ebeb89fdef92f29130fdb2d14c32137ed019bb161a5129a449a7628c"
 
   url "https://github.com/Jncch/Entruce/releases/download/v#{version}/Entruce-#{version}.zip"
   name "Entruce"
